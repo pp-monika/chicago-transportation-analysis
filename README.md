@@ -1,6 +1,4 @@
 # Analyzing Transportation Patterns Using Chicago Taxi Trip and Chicago Rideshare for Urban Planning Insights
-
-## Motivation
 Urban planning is an important aspect of designing cities to meet the infrastructure needed to support the livelihood of tens of millions of residents. Transportation in particular has a critical impact on people’s decision to accept employment, how they spend their time, places they visit, and even business locations. This exploration of Chicago taxi and ride share service data will provide an insight on traffic conditions, travel expenses, and hotspots for visitation in the city which can be used for city planning purposes.
 
 ## Problem definition

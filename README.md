@@ -11,4 +11,5 @@ The project aims to derive insights that can inform urban planning, improve traf
 ## Data source
 - Chicago Taxi Trips from 2013 to 2023: [link](https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew/about_data)
 - Chicago Transportation Network Providers Trip: from 2018 to 2022: [link](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p/about_data)
+- Chicago Transportation Network Providers Trip: from 2023 to present: [link](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2023-/n26f-ihde/about_data)
 - Chicago Community Area: [link](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6)
